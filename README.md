@@ -1,10 +1,11 @@
 # Capstone-Project-Crunchbase-Funding-Prediction-Model
 Using Crunchbase data, build a model to identify companies that will get funded.
 
-# Final Presentation:
+# Final Deliverables
+## Final Presentation:
 https://github.com/daikiminaki/Capstone_Project_Crunchbase_Funding_Prediction_Model/blob/master/Capstone_1_Final_Presentation.pdf
 
-# Final Report:
+## Final Report:
 https://github.com/daikiminaki/Capstone_Project_Crunchbase_Funding_Prediction_Model/blob/master/Capstone_1_Final_Report.pdf
 
 # Notebooks:
