@@ -1,5 +1,13 @@
 # Startup Funding Prediction Model (Capstone 1)
 
+
+## Final Presentation:
+https://github.com/daikiminaki/Capstone_Project_Crunchbase_Funding_Prediction_Model/blob/master/Capstone_1_Final_Presentation.pdf
+
+## Final Report:
+https://github.com/daikiminaki/Capstone_Project_Crunchbase_Funding_Prediction_Model/blob/master/Capstone_1_Final_Report.pdf
+
+# Summary
 ## Objective
 Predict whether or not a company will fund their next round in the coming year.
 
@@ -16,12 +24,6 @@ Accuracy of 0.94, a Precision of 0.91, and an AUC of 0.975
 ## Languages & Libraries
 Languages: Mainly Python with SQL for data acquisition. 
 Libraries: Pandas, Numpy, SciPy, Sklearn, Seaborn, Matplotlib
-
-## Final Presentation:
-https://github.com/daikiminaki/Capstone_Project_Crunchbase_Funding_Prediction_Model/blob/master/Capstone_1_Final_Presentation.pdf
-
-## Final Report:
-https://github.com/daikiminaki/Capstone_Project_Crunchbase_Funding_Prediction_Model/blob/master/Capstone_1_Final_Report.pdf
 
 # Notebooks:
 ## Data Cleaning:
