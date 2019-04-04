@@ -1,8 +1,22 @@
 # Startup Funding Prediction Model (Capstone 1)
-Using Crunchbase data, build a model to identify companies that will get funded.
 
 ## Objective
 Predict whether or not a company will fund their next round in the coming year.
+
+## Data
+Crunchbase Company and Investment Data
+
+## Model
+Final Model: Random Forest Classifier
+Alternative: Gradient Boosting
+
+## Key Results:
+Accuracy of 0.94, a Precision of 0.91, and an AUC of 0.975
+
+## Languages & Libraries
+Languages: Mainly Python with SQL for data acquisition. 
+Libraries: Pandas, Numpy, SciPy, Sklearn, Seaborn, Matplotlib
+
 
 # Final Deliverables
 ## Final Presentation:
