@@ -1,5 +1,8 @@
-# Capstone-Project-Crunchbase-Funding-Prediction-Model
+# Startup Funding Prediction Model (Capstone 1)
 Using Crunchbase data, build a model to identify companies that will get funded.
+
+## Objective
+Predict whether or not a company will fund their next round in the coming year.
 
 # Final Deliverables
 ## Final Presentation:
