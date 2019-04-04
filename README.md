@@ -17,8 +17,6 @@ Accuracy of 0.94, a Precision of 0.91, and an AUC of 0.975
 Languages: Mainly Python with SQL for data acquisition. 
 Libraries: Pandas, Numpy, SciPy, Sklearn, Seaborn, Matplotlib
 
-
-# Final Deliverables
 ## Final Presentation:
 https://github.com/daikiminaki/Capstone_Project_Crunchbase_Funding_Prediction_Model/blob/master/Capstone_1_Final_Presentation.pdf
 
